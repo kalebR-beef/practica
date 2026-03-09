@@ -1,0 +1,47 @@
+
+
+body{
+  margin:0;
+  padding:0;
+}
+
+nav{
+  display:flex;
+  justify-content:space-between;
+  background-color:#0D75DE;
+  height:50px;
+}
+
+nav a{
+  color:white;
+  text-decoration:none;
+  margin:auto;
+}
+
+nav a:hover{
+  color:#DE760D;
+}
+
+.galeria{
+  width:200px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
